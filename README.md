@@ -24,3 +24,54 @@ Total Distance	      |   2.51M    |
 Average Distance	    |   24.64KM  |
 Driver Rating	        |   4.23     |
 Customer Rating	      |   4.40     |
+
+## Dashboard Features
+
+### Booking Analysis
+Monthly booking trends
+Completed bookings tracking
+Lost booking analysis
+
+### Revenue Analysis
+Monthly revenue/profit tracking
+Revenue comparison across vehicle types
+
+### Vehicle 
+Auto
+Bike
+Go Mini
+Go Sedan
+Premier Sedan
+Uber XL
+
+#### Location Analysis
+Top pickup locations
+Top drop locations
+
+### Customer Insights
+Driver ratings
+Customer ratings
+Booking completion status
+
+### Tools & Technologies
+Power BI
+Microsoft Excel
+Data Modeling
+DAX
+Data Visualization
+
+## Key Insights
+
+Auto generated the highest revenue (13M).
+Bike rides contributed 11M revenue.
+Total completed bookings reached 93K.
+Average ride distance was 24.64 km.
+Customer rating (4.40) was higher than driver rating (4.23).
+Revenue remained relatively stable throughout the year.
+
+## Conclusion
+
+The Uber Ride Booking Analysis Dashboard provides a comprehensive overview of ride booking operations, customer satisfaction, and revenue performance. The insights can help improve operational efficiency, optimize vehicle allocation, and enhance customer experience.
+
+## Dashboard 
+![Dashboard]
