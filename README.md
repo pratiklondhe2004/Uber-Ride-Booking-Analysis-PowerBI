@@ -1,5 +1,7 @@
 # Uber-Ride-Booking-Analysis-PowerBI
 
+Built a Power BI dashboard to analyze Uber ride bookings, revenue, customer ratings, and operational performance using interactive visualizations and KPIs.
+
 ## Project Overview
 
 This Power BI dashboard analyzes Uber ride booking data to monitor business performance, booking trends, revenue generation, customer behavior, and vehicle utilization.
