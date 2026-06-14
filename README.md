@@ -74,4 +74,4 @@ Revenue remained relatively stable throughout the year.
 The Uber Ride Booking Analysis Dashboard provides a comprehensive overview of ride booking operations, customer satisfaction, and revenue performance. The insights can help improve operational efficiency, optimize vehicle allocation, and enhance customer experience.
 
 ## Dashboard 
-![Dashboard]
+![Dashboard](https://github.com/pratiklondhe2004/Uber-Ride-Booking-Analysis-PowerBI/blob/main/uber%20ride%20analysis%20dashboard.png)
